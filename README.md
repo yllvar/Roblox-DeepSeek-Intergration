@@ -1,6 +1,6 @@
 # Roblox DeepSeek Integration 🚀
 
-![Demo GIF](docs/IMAGES/demo.gif) *(Example of AI-generated spinning part)*
+<img width="416" alt="Screenshot 2025-03-30 at 22 54 49" src="https://github.com/user-attachments/assets/73cfba09-e1bf-459e-bc9e-9d09746fe707" />
 
 ## 🌟 Key Features
 | Feature | Description |
